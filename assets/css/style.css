@@ -1,0 +1,41 @@
+body{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+#Layer_1 {
+    size: 1px;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+.card-deck{
+    background-color: black;
+}
+
+.card{
+    background-color: black;
+    color: white;
+}
+
+.card-footer{
+    text-align: center;
+}
+
+.card-header{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
