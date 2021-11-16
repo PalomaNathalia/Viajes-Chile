@@ -38,6 +38,15 @@ h2{
     background-color: black;
     color: white;
     margin: 0;
+    font-weight: 400;
+}
+
+h5{
+    font-weight: 400;
+}
+
+p{
+    font-weight: 300;
 }
 
 .icon{
@@ -53,10 +62,6 @@ h2{
     font-size: 1.5rem;
 }
 
-hr{
-    background-color: pink;
-
-}
 
 .fondo-negro{
     background-color: black;
