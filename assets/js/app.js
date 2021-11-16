@@ -25,3 +25,12 @@ $(function () {
   $("#tarjeta4").on("click",function(){
     $("#target4").toggle();
   });
+
+//Menú
+$(window).scroll(function(){
+  if ($("#menu").offset().top > 70){
+      $("#menu").addClass("bg-info");
+  }else{
+    $("#menu").removeClass("bg-info")
+  }
+});
